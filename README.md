@@ -2,7 +2,7 @@
 Demystifying-Robotics-STANFORD-Robot-RoboAnalyzer
 
 
-# Demystifying Robotics: The STANFORD Robot & RoboAnalyzer
+# Demystifying Robotics: The STANFORD RoboAnalyzer
 
 This repository is based on my article **[Demystifying Robotics: A Deep Dive into the STANFORD Robot and RoboAnalyzer](https://medium.com/@manojreddy2404/demystifying-robotics-a-deep-dive-into-the-stanford-robot-and-roboanalyzer-ab7310a482d9)**.  
 It explores the **STANFORD robot**, one of the earliest and most studied 6-DOF serial manipulators, using the simulation tool **RoboAnalyzer**.
@@ -31,3 +31,4 @@ It explores the **STANFORD robot**, one of the earliest and most studied 6-DOF s
 | `LICENSE`               | License file (MIT recommended) |
 
 ---
+
